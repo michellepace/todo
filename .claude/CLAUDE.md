@@ -2,10 +2,6 @@
 
 The project uses British English - strictly.
 
-## Project Overview
-
-A starter template repository — not a product. Clone it, add a UI component library, and build from there.
-
 ## Tech Stack
 
 - **Framework**: Next.js 16.2 (React 19, App Router, React Compiler, TypeScript 6)
