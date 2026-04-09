@@ -16,6 +16,7 @@
   "files.associations": { "*.css": "tailwindcss" }, // recommended by tailwind
   "editor.quickSuggestions": { "strings": "on" }, // recommended by tailwind
   "files.exclude": {
+    "**/.ruff_cache": true, // Hide Ruff linter cache
     "**/.next": true, // Hide Next.js build output
     "**/node_modules": true, // Hide npm installed dependencies
     "next-env.d.ts": true, // Hide Next.js file (uneditable)
